@@ -8,21 +8,23 @@ Built with Java (Netbeans) and SQL (PostgreSQL). Utilized layout managers MigLay
 
 ## Project Screen Shots
 
-### Home Page: <img width="1440" alt="home_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/34d13047-b3e0-4436-911c-fbcd2acfe729">
+### Home Page: <img width="1440" alt="home_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/68f9438c-0a16-4e8e-add6-fd80a3110d7b">
 
-### Categories Page: <img width="1438" alt="categ_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/222e4f8e-6bf4-4a7d-ac2e-d937614c8989">
+### Categories Page: <img width="1438" alt="categ_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/19b4b74b-70b1-4fb9-a993-2c9772638099">
 
-### Customize Item Page: <img width="1438" alt="custom_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/da8926e2-4f6c-4ad3-9605-f671630359bb">
+### Customize Item Page: <img width="1438" alt="custom_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/799569c8-2fe0-42b5-8cd2-ed7d8a876c97">
 
-### Continue or Complete Order Page: <img width="1440" alt="continue_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/baa9683e-ab9e-40b1-a235-4f4300005331">
 
-### Edit Order Page: <img width="1438" alt="edit_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/2a4e204f-5531-4585-9eed-80d000cf6e8d">
+### Continue or Complete Order Page: <img width="1440" alt="continue_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/d26a7c49-1ee0-427f-b1be-338f4eed71bc">
 
-### Inactivity Timer Page: <img width="1438" alt="timer_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/cbe1a10f-58b8-4b67-8287-7153079f6602">
+### Edit Order Page: <img width="1438" alt="edit_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/5cd09192-a6e1-4343-bc48-bd6985b784d6">
 
-### Order Completed Page: <img width="1439" alt="complete_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/5c73eec2-b039-4b04-aa33-5e988fb0d46c">
 
-### Cancel Ordering Page: <img width="1438" alt="cancel page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/738fe5fa-445b-4015-a373-fd6d00381501">
+### Inactivity Timer Page: <img width="1438" alt="timer_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/afe1495a-12b8-4e83-8035-2324d83517e2">
+
+### Order Completed Page: <img width="1439" alt="complete_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/05fd1082-bbcd-4d5a-9d46-27a8ea22beff">
+
+### Cancel Ordering Page: <img width="1438" alt="cancel page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/1e1c8d7b-035b-4af9-8e54-67ad4f063a4f">
 
 ### Installation and Setup Instructions
 
