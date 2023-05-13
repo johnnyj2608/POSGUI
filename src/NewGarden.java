@@ -226,7 +226,7 @@ public class NewGarden {
         
         // Initializes the beep audio file
         try{
-            beep = getClass().getClassLoader().getResource("beep.wav");
+            beep = getClass().getResource("beep.wav");
             AudioInputStream sound = AudioSystem.getAudioInputStream(beep);
             clip = AudioSystem.getClip();
             clip.open(sound);
@@ -270,19 +270,23 @@ public class NewGarden {
         undo_list.setModel(model3);
         
         // Designs the home page
-        ImageIcon tempFood = new ImageIcon(getClass().getClassLoader().getResource("food.jpg"));
-        Image image = tempFood.getImage();
-        Image tempImage = image.getScaledInstance(1100, 550, java.awt.Image.SCALE_SMOOTH);
-        food = new ImageIcon(tempImage);
+        try {
+            ImageIcon tempFood = new ImageIcon(getClass().getResource("food.jpg"));
+            Image image = tempFood.getImage();
+            Image tempImage = image.getScaledInstance(1100, 550, java.awt.Image.SCALE_SMOOTH);
+            food = new ImageIcon(tempImage);
+            home_image.setIcon(food);
+            home_backdrop.add(home_image, "push, align center");
+        } catch (Exception e) {
+            System.out.println("Image can't be found!");
+        }
         home_title.setFont(ban_title);
         home_touch.setFont(big_title);
-        home_image.setIcon(food);
         home_banner.setBackground(reddish);
         home_bar.setBackground(reddish);
         home_backdrop.setBackground(Color.black);
         home_banner.add(home_title, "push, align center");
         home_bar.add(home_touch, "push, align center");
-        home_backdrop.add(home_image, "push, align center");
         home_page.add(home_banner, "north");
         home_page.add(home_bar, "south");
         home_page.add(home_backdrop, "w 100%, h 100%");
