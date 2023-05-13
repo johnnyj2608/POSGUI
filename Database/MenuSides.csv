@@ -1,0 +1,17 @@
+"item","size1","size2","size3"
+"Beef Fried Rice",1.5,2.5,1
+"Beef Lo Mein",0,3.5,3
+"Chicken Fried Rice",1,2,0
+"Chicken Lo Mein",0,3,2.5
+"None",0,0,0
+"Plain Fried Rice",0.75,1.5,0
+"Plain Lo Mein",0,2.5,2
+"Pork Fried Rice",1,2,0
+"Pork Lo Mein",0,3,2.5
+"Regular Fried Rice",0.75,1.5,0
+"Regular Lo Mein",0,2.5,2
+"Shrimp Fried Rice",1.5,2.5,1
+"Shrimp Lo Mein",0,3.5,3
+"Vegetable Fried Rice",0.75,1.5,0
+"Vegetable Lo Mein",0,2.5,2.5
+"White Rice",0,0,0
