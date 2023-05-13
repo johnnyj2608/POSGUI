@@ -28,23 +28,11 @@ Built with Java (Netbeans) and SQL (PostgreSQL). Utilized layout managers MigLay
 
 #### Example:  
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+Clone down this repository. You will need `VS Code` and `PostgreSQL` installed globally on your machine.  
 
-Installation:
+Start your PostgreSQL server. Copy tables from Database directory. In DBConnection.java, change information to your own.
 
-`npm install`  
-
-To Run Test Suite:  
-
-`npm test`  
-
-To Start Server:
-
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
+Open the repository with VS Code. Run the code.
 
 ## Reflection
 
