@@ -28,8 +28,6 @@ Built with Java (Netbeans) and SQL (PostgreSQL). Utilized layout managers MigLay
 
 ### Installation and Setup Instructions
 
-#### Example:  
-
 Clone down this repository. You will need `VS Code` and `PostgreSQL` installed globally on your machine.  
 
 Start your PostgreSQL server. Copy the tables from the Database directory. In DBConnection.java, change the information to your own.
