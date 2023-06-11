@@ -26,7 +26,7 @@ Built with Java (Netbeans) and SQL (PostgreSQL). Utilized layout managers MigLay
 
 ### Cancel Ordering Page: <img width="1438" alt="cancel page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/1e1c8d7b-035b-4af9-8e54-67ad4f063a4f">
 
-### Installation and Setup Instructions
+## Installation and Setup Instructions
 
 Clone down this repository. You will need `VS Code` and `PostgreSQL` installed globally on your machine.  
 
