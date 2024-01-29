@@ -1,6 +1,6 @@
 ## Project Name & Pitch
 
-New Garden Point of Sale System
+Point of Sale System
 
 A Java Swing GUI allows users to place and customize food orders remotely from the menu of New Garden.
 
