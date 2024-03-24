@@ -26,18 +26,18 @@ In the following iterations, there are a few things I wish to improve on. I want
 
 ## Project Screen Shots
 
-### Home Page: <img width="1440" alt="home_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/68f9438c-0a16-4e8e-add6-fd80a3110d7b">
+![Home Page](Media/home_page.png)
 
-### Categories Page: <img width="1438" alt="categ_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/19b4b74b-70b1-4fb9-a993-2c9772638099">
+![Categories Page](Media/categ_page.png)
 
-### Customize Item Page: <img width="1438" alt="custom_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/799569c8-2fe0-42b5-8cd2-ed7d8a876c97">
+![Customize Page](Media/custom_page.png)
 
-### Continue or Complete Order Page: <img width="1440" alt="continue_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/d26a7c49-1ee0-427f-b1be-338f4eed71bc">
+![Continue Page](Media/continue_page.png)
 
-### Edit Order Page: <img width="1438" alt="edit_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/5cd09192-a6e1-4343-bc48-bd6985b784d6">
+![Edit Page](Media/edit_page.png)
 
-### Inactivity Timer Page: <img width="1438" alt="timer_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/afe1495a-12b8-4e83-8035-2324d83517e2">
+![Timer Page](Media/timer_page.png)
 
-### Order Completed Page: <img width="1439" alt="complete_page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/05fd1082-bbcd-4d5a-9d46-27a8ea22beff">
+![Completed Page](Media/complete_page.png)
 
-### Cancel Ordering Page: <img width="1438" alt="cancel page" src="https://github.com/johnnyj2608/NewGarden/assets/54607786/1e1c8d7b-035b-4af9-8e54-67ad4f063a4f">
+![Cancel Page](Media/cancel_page.png)
