@@ -6,6 +6,9 @@ A Java Swing GUI allows users to place and customize food orders remotely from t
 
 Built with Java (Netbeans) and SQL (PostgreSQL). Utilized layout managers MigLayout and CardLayout.
 
+### Demo Video
+[![Watch the demo](https://img.youtube.com/vi/aZanP8LEd20/0.jpg)](https://www.youtube.com/watch?v=aZanP8LEd20)
+
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `VS Code` and `PostgreSQL` installed globally on your machine.  
